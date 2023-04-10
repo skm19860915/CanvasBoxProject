@@ -1,0 +1,17 @@
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #e7e7e7;
+    color: black;
+}
+#setting-form{
+    box-shadow: 0 2px 8px rgb(0 0 0 / 45%);
+    padding: 20px;
+    border-radius: 10px;
+}
